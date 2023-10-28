@@ -1,5 +1,6 @@
 # RoadTripTourGuide
-This android app tells you about each town you drive through on your road trip!
+This android app automatically tells you about each town you drive through on your road trip as you enter the town!  I always wish I could both know what town I'm crossing threw and learn a little about it during long drives.  This app aims to do that for you and without distracting your eyes from the road.
+
 It is my first Android app and my first Kotlin app so pardon the quality of it all.
 
 ## Beta
