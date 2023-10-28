@@ -11,6 +11,9 @@ During a long drive, have you ever wondered what each of these little (or big) t
 If so - this app is for you.
 Road Trip Tour Guide will audibly tell you about each new town or city you drive into, automatically!
 
+### Limitations
+This app currently only works for towns in the U.S. and Canada. The parsing of the town name in other countries and converting the names reported from Android's location service into the names of the Wikipedia articles is currently unimplemented.  So US and Canada work, something like Paris, France works, but most towns I tested in Europe don't at the moment.
+
 ## How it Works
 The app uses your device's location to figure out what city you are in.  It then looks up that city in Wikipedia and grabs the summary (top) section from the town's wikipedia page.  It then reads this aloud using Text-to-Speech.  
 If the app can't discern the corresponding Wikipedia article for the town, or if it doesn't exist, the app won't have any information to read aloud.
