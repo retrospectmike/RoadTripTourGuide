@@ -1,5 +1,6 @@
 # RoadTripTourGuide
-This app tells you about each town you drive through on your road trip!
+This android app tells you about each town you drive through on your road trip!
+It is my first Android app and my first Kotlin app so pardon the quality of it all.
 
 ## Beta
 This app is currently in pre-release and is a work in progress.  When formal releases are made, they will be posted on the repository's **Releases** page.
